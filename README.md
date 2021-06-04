@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aureliayang. My name is Chen Yang. I'm an asscociate research scholar at Princeton University CEE.
+- 👋 Hi, I’m @aureliayang. My name is Chen Yang. I'm an associate research scholar at Princeton University CEE.
 - 👀 I’m interested in CUDA programming based on Fortran and C/C++ for particle tracking.
 - 🌱 I’m currently learning the CUDA and particle tracking stuff.
 - 💞️ I’m looking to collaborate on massively parallel computing of particle tracking in hydrologci modeling at continental scale.
